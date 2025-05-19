@@ -115,7 +115,7 @@
             // txtDate
             // 
             this.txtDate.Enabled = false;
-            this.txtDate.Font = new System.Drawing.Font("微軟正黑體", 58F, System.Drawing.FontStyle.Bold);
+            this.txtDate.Font = new System.Drawing.Font("微軟正黑體", 50F, System.Drawing.FontStyle.Bold);
             this.txtDate.Location = new System.Drawing.Point(6, 192);
             this.txtDate.Multiline = true;
             this.txtDate.Name = "txtDate";
@@ -127,7 +127,7 @@
             // txtWeekDay
             // 
             this.txtWeekDay.Enabled = false;
-            this.txtWeekDay.Font = new System.Drawing.Font("微軟正黑體", 58F, System.Drawing.FontStyle.Bold);
+            this.txtWeekDay.Font = new System.Drawing.Font("微軟正黑體", 50F, System.Drawing.FontStyle.Bold);
             this.txtWeekDay.Location = new System.Drawing.Point(587, 192);
             this.txtWeekDay.Multiline = true;
             this.txtWeekDay.Name = "txtWeekDay";
